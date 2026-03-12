@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="36" height="36">
+	<title>phone</title>
+	<defs>
+		<image  width="12" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAMAAAAVv241AAAAAXNSR0IB2cksfwAAAJBQTFRFAAAA/f39/v7+/v7+/Pz8/v7+/v7+/v7+/v7+/v7+/Pz8/v7+/v7+/v7+/v7+/v7+/v7+tbW1+/v7/v7+/v7+/v7+/v7+/v7+/v7++vr6/v7+/v7+/v7+/v7+/f399/f3/v7+/v7+/v7+/v7+/v7+/v7+/f39/v7+/v7+/v7+/v7+/f39/v7+/v7+/v7+/v7+Mo7cGAAAADB0Uk5TAAh2wwSx/14o3QZSZE6lLmICBPEyp25I0wLVYDA4DgK79ct8IO8SRvuF8xav9+d+BWlZjgAAAIZJREFUeJw1zG0HAlEQBeBzpNw2t7JaK1l9KPr/vyaiKLsbWa5elJQ0s3P3fBjzjGMISr5oQ/QJviPcD+jxaRh9ZA4eBq8VdzNMXkDCYEh5x7jpvmVXTC8d8oCU54g5G2RVBOS5H5YFT4olayxYFnsF1jxCbzsFNjzIXG1bwM8qLRjgZGP4A/WOHlq4Pg0oAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="2" y="0"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAYUlEQVR4nGNksN/Lwsjwn4GRkfkPw0FG9h8MDxn5PzB8ZJR/wPCT0f4Aw18gIfCWsb5W+D2E+P+3uR5ENCATD+0fQAk0CVSivhaoF0zY722uhRgPtghsJdhysDPADgI5DQA3SUcMRCmrRAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path class="s0" d="m16 0c-8.8 0-16 7.2-16 16 0 8.8 7.2 16 16 16 8.8 0 16-7.2 16-16 0-8.8-7.2-16-16-16zm4 10.67h-1.73c-0.8 0-0.94 0.26-0.94 1.06v1.6h2.67l-0.27 2.67h-2.4v9.33h-4v-9.33h-2.66v-2.67h2.66v-3.06c0-2.4 1.2-3.6 4-3.6h2.67z"/>
+	<use id="Warstwa 1" href="#img1" x="0" y="0"/>
+</svg>
